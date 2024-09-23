@@ -1,0 +1,19 @@
+{
+    "name": "hasher",
+    "version": "1.0.0",
+    "description": "KaWPoW algorithm hashing and verification functions for NodeJS",
+    "main": "app.js",
+    "author": "The BetGenius developers",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BetGenius/hasher.git"
+    },
+    "dependencies": {
+        "bindings": "^1.5.0",
+        "nan": "^2.17.0"
+    },
+    "engines": {
+        "node": ">=10.13.0"
+    }
+}
